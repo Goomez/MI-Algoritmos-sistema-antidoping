@@ -1,0 +1,93 @@
+Sistema Antidoping - COPA DO MUNDO 2018
+
+EXIBIÇÃO DE TODOS OS JOGADORES
+Pablo Henrique Santos	1986	Brasil	7	Atacante
+Jonh Mayer	1990	Inglaterra	2	Zagueiro
+Júlio Cesar	1980	Brasil	18	Goleiro
+Wesley Scobar	1994	Espanha	10	Goleiro
+Maicon Wendell	1987	Inglaterra	10	Atacante
+Juan Pablo	1991	Espanha	7	Volante
+Marcos Paulo	1993	Brasil	8	Volante
+Michael Kors	1989	Inglaterra	10	Atacante
+
+EXIBIÇÃO DE TODOS OS JOGADORES
+Pablo Henrique Santos	1986	Brasil	7	Atacante
+Jonh Mayer	1990	Inglaterra	2	Zagueiro
+Júlio Cesar	1980	Brasil	18	Goleiro
+Wesley Scobar	1994	Espanha	10	Goleiro
+Maicon Wendell	1987	Inglaterra	10	Atacante
+Juan Pablo	1991	Espanha	7	Volante
+Marcos Paulo	1993	Brasil	8	Volante
+Michael Kors	1989	Inglaterra	10	Atacante
+Munhoz Osírio	1993	Espanha	10	Atacante
+Victor Sa	1987	Espanha	2	Goleiro
+
+EXIBIÇÃO DE TODOS OS JOGADORES
+Pablo Henrique Santos	1986	Brasil	7	Atacante
+Jonh Mayer	1990	Inglaterra	5	Zagueiro
+Júlio Cesar	1980	Brasil	18	Goleiro
+Wesley Scobar	1994	Espanha	10	Goleiro
+Maicon Wendell	1987	Inglaterra	10	Atacante
+Juan Pablo	1991	Espanha	7	Volante
+Marcos Paulo	1993	Brasil	7	Volante
+Michael Kors	1989	Inglaterra	10	Atacante
+Munhoz Osírio	1993	Espanha	10	Atacante
+Victor Sa	1987	Espanha	2	Goleiro
+
+NÃO FOI POSSÍVEL A REMOÇÃO DE Maicon Wendell.
+CADASTRO INEXISTENTE.
+
+EXIBIÇÃO DE TODOS OS JOGADORES
+Pablo Henrique Santos	1986	Brasil	7	Atacante
+Jonh Mayer	1990	Inglaterra	5	Zagueiro
+Júlio Cesar	1980	Brasil	18	Goleiro
+Marcos Paulo	1993	Brasil	7	Volante
+Michael Kors	1989	Inglaterra	10	Atacante
+Munhoz Osírio	1993	Espanha	10	Atacante
+Victor Sa	1987	Espanha	2	Goleiro
+
+NÃO FOI POSSÍVEL A REMOÇÃO DE Victor Sales Pereira.
+CADASTRO INEXISTENTE.
+
+NÃO FOI POSSÍVEL A REMOÇÃO DE Julio Paixão.
+CADASTRO INEXISTENTE.
+
+NÃO EXISTEM JOGADORES REGISTRADOS
+
+EXIBIÇÃO DE TODOS OS JOGADORES
+Pablo Henrique Santos	1986	Brasil	7	Atacante
+Jonh Mayer	1990	Inglaterra	2	Zagueiro
+Júlio Cesar	1980	Brasil	18	Goleiro
+Wesley Scobar	1994	Espanha	10	Goleiro
+Maicon Wendell	1987	Inglaterra	10	Atacante
+Juan Pablo	1991	Espanha	7	Volante
+Marcos Paulo	1993	Brasil	8	Volante
+Michael Kors	1989	Inglaterra	10	Atacante
+
+EXIBIÇÃO DE JOGADORES SORTEADOS
+SORTEIO 1 -> 2 JOGADORES SORTEADOS
+Pablo Henrique Santos	Brasil
+Maicon Wendell	Inglaterra
+
+EXIBIÇÃO DE JOGADORES SORTEADOS
+SORTEIO 1 -> 2 JOGADORES SORTEADOS
+Pablo Henrique Santos	Brasil
+Maicon Wendell	Inglaterra
+SORTEIO 2 -> 3 JOGADORES SORTEADOS
+Júlio Cesar	Brasil
+Marcos Paulo	Brasil
+Munhoz Osírio	Espanha
+
+FILTRO PELA POSIÇÃO
+Marcos Paulo	Brasil
+
+FILTRO PELA POSIÇÃO
+JOGADORES SORTEADOS E QUE OCUPAM A POSIÇÃO: Atacante
+Pablo Henrique Santos	Brasil
+Maicon Wendell	Inglaterra
+Munhoz Osírio	Espanha
+
+FILTRO PELA POSIÇÃO
+NÃO EXISTE A POSICAO INSERIDA: Levantador
+
+Aplicação encerrada. Obrigado por usar nosso sistema!
