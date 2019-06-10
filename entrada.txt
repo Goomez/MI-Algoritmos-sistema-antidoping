@@ -1,0 +1,173 @@
+1
+Pablo Henrique Santos
+1986
+Brasil
+7
+Atacante
+1
+Jonh Mayer
+1990
+Inglaterra
+2
+Zagueiro
+1
+Júlio Cesar
+1980
+Brasil
+18
+Goleiro
+1
+Wesley Scobar
+1994
+Espanha
+10
+Goleiro
+1
+Maicon Wendell
+1987
+Inglaterra
+10
+Atacante
+1
+Juan Pablo
+1991
+Espanha
+7
+Volante
+1
+Marcos Paulo
+1993
+Brasil
+8
+Volante
+1
+Michael Kors
+1989
+Inglaterra
+10
+Atacante
+6
+1
+Munhoz Osírio
+1993
+Espanha
+10
+Atacante
+1
+Victor Sa
+1987
+Espanha
+2
+Goleiro
+6
+2
+Jonh Mayer
+5
+2
+Marcos Paulo
+7
+6
+3
+Wesley Scobar
+3
+Juan Pablo
+3
+Maicon Wendell
+3
+Maicon Wendell
+6
+3
+Victor Sa
+3
+Munhoz Osírio
+3
+Michael Kors
+3
+Marcos Paulo
+3
+Victor Sales Pereira
+3
+Pablo Henrique Santos
+3
+Júlio Cesar
+3
+Jonh Mayer
+3
+Julio Paixão
+6
+1
+Pablo Henrique Santos
+1986
+Brasil
+7
+Atacante
+1
+Jonh Mayer
+1990
+Inglaterra
+2
+Zagueiro
+1
+Júlio Cesar
+1980
+Brasil
+18
+Goleiro
+1
+Wesley Scobar
+1994
+Espanha
+10
+Goleiro
+1
+Maicon Wendell
+1987
+Inglaterra
+10
+Atacante
+1
+Juan Pablo
+1991
+Espanha
+7
+Volante
+1
+Marcos Paulo
+1993
+Brasil
+8
+Volante
+1
+Michael Kors
+1989
+Inglaterra
+10
+Atacante
+6
+1
+Munhoz Osírio
+1993
+Espanha
+10
+Atacante
+1
+Victor Sa
+1987
+Espanha
+2
+Goleiro
+4
+2
+7
+4
+3
+7
+5
+Volante
+5
+Atacante
+5
+Levantador
+8
+
+
